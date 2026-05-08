@@ -12,11 +12,11 @@ const projects = [
     link: "https://todo-list-gamma-tawny.vercel.app" 
   },
   {
-    title: "Pixel Commerce",
+    title: "MindScroll",
     description:
-      "Headless e-commerce storefront with blazing fast checkout flow.",
-    tags: ["Next.js", "Stripe"],
-    link: "#"
+      "MindScroll is a modern and responsive blog website.",
+    tags: ["React", "JavaScript"],
+    link: "https://mind-scroll-six.vercel.app/"
   },
   {
     title: "Python Animation",
