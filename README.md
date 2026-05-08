@@ -23,7 +23,7 @@ This portfolio showcases my frontend development skills, projects, and experienc
 
 ## 🌐 Live Demo
 
-Live Portfolio: portfolio-woad-three-yclvcv7t19.vercel.app
+Live Portfolio: https://portfolio-woad-three-yclvcv7t19.vercel.app
 
 
 ## 📦 Installation
@@ -46,7 +46,7 @@ src/
 ## 📌 GitHub Repository
 
 ```
-https://github.com/yourusername/portfolio
+https://github.com/sheikhzahra047-ship-it/Portfolio
 ```
 
 ## ✨ Author
