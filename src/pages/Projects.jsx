@@ -19,11 +19,11 @@ const projects = [
     link: "https://mind-scroll-six.vercel.app/"
   },
   {
-    title: "Python Animation",
+    title: "Number Guessing Game",
     description:
-      "Python animation project showcasing visual effects and motion graphics using programming..",
+      "A simple Python beginner game where user guesses a random number.",
     tags: ["Python"],
-    link: "#"
+    link: "https://github.com/sheikhzahra047-ship-it/Number-Guessing-Game"
   },
   {
     title: "Lumen Notes",
