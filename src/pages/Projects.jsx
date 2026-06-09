@@ -32,13 +32,13 @@ const projects = [
     tags: ["AI", "Supabase"],
     link: "#"
   },
-  {
-    title: "Orbit Tasks",
-    description:
-      "Minimal kanban board with smooth drag-and-drop.",
-    tags: ["React", "DnD"],
-    link: "#"
-  },
+  // {
+  //   title: "Orbit Tasks",
+  //   description:
+  //     "Minimal kanban board with smooth drag-and-drop.",
+  //   tags: ["React", "DnD"],
+  //   link: "#"
+  // },
 ];
 
 const container = {
