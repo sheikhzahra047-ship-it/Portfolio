@@ -25,20 +25,8 @@ const projects = [
     tags: ["Python"],
     link: "https://github.com/sheikhzahra047-ship-it/Number-Guessing-Game"
   },
-  {
-    title: "Lumen Notes",
-    description:
-      "Markdown note-taking app with AI summaries and tags.",
-    tags: ["AI", "Supabase"],
-    link: "#"
-  },
-  // {
-  //   title: "Orbit Tasks",
-  //   description:
-  //     "Minimal kanban board with smooth drag-and-drop.",
-  //   tags: ["React", "DnD"],
-  //   link: "#"
-  // },
+
+
 ];
 
 const container = {
